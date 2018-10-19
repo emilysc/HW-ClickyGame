@@ -1,0 +1,19 @@
+.Header {
+    background: pink;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.Header-title {
+   
+}
+.Header-message {
+
+}
+
+.Header-scores {
+ 
+}
